@@ -11,13 +11,11 @@
 
 ### 💻 Linguagens e Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,python,c,cpp,latex,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,python,c#,,latex,linux" />
 </div>
 
 ### 📊 Estatísticas
 <div align="left">
-  <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosaraujo&layout=compact&theme=dark" />
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20João Marcos Araújo Lima" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosaraujo&layout=compact&theme=dark&locale=pt-br&custom_title=Tecnologias" />
 </div>
