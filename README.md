@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Marcos Araújo Lima
 
-<!--
-**jmarcosaraujo/jmarcosaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://img.shields.io/badge/ESTRELAS-7-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/SEGUIDORES-7-blue?style=for-the-badge&logo=github" />
+</div>
 
-Here are some ideas to get you started:
+> Sou estudante de Analise e Desenvolvimento de Sistemas na UNIGRANDE - Centro Universitário da Grande Fortaleza, apaixonado por tecnologia e Desenvolvimento tecnico e programação. Aqui você encontrará projetos que refletem minha jornada de aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Linguagens e Tecnologias
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,python,c,cpp,latex,linux" />
+</div>
+
+### 📊 Estatísticas
+<div align="left">
+  <p align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosaraujo&layout=compact&theme=dark" />
+  </p>
+</div>
