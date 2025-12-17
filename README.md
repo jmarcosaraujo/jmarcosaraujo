@@ -1,13 +1,15 @@
-# 👋 Olá, eu sou João Marcos Araújo Lima
+# 🧑‍💻 João Marcos Araújo Lima
+
+<img src="https://img.shields.io/badge/BR-black?style=flat-square" alt="Brasil Badge">
+
+> Sou estudante de Analise e Desenvolvimento de Sistemas na UNIGRANDE - Centro Universitário da Grande Fortaleza, apaixonado por tecnologia e Desenvolvimento tecnico e programação. Aqui você encontrará projetos que refletem minha jornada de aprendizado.
 
 <div align="left">
   <img src="https://img.shields.io/badge/ESTRELAS-7-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/SEGUIDORES-7-blue?style=for-the-badge&logo=github" />
 </div>
 
-> Sou estudante de Analise e Desenvolvimento de Sistemas na UNIGRANDE - Centro Universitário da Grande Fortaleza, apaixonado por tecnologia e Desenvolvimento tecnico e programação. Aqui você encontrará projetos que refletem minha jornada de aprendizado.
-
-### 👩‍💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,python,c,cpp,latex,linux" />
 </div>
