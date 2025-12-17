@@ -16,6 +16,6 @@
 
 ### 📊 Estatísticas
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20João Marcos Araújo Lima" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20João%20Marcos%20Araújo%20Lima" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosaraujo&layout=compact&theme=dark&locale=pt-br&custom_title=Tecnologias" />
 </div>
