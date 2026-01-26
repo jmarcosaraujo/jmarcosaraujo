@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-marcos-ara%C3%BAjo-lima-07b032214/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmarcosaraujo7@gmail.com) 
-[![Github](https://img.shields.io/badge/GitHub-Yellow)](https://github.com/jmarcosaraujo/jmarcosaraujo)
+[![Github](https://img.shields.io/badge/GitHub-Yellow)]()
 
 ### 💻 Linguagens e Tecnologias
 <div align="left">
