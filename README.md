@@ -5,9 +5,10 @@
 > Sou estudante de Analise e Desenvolvimento de Sistemas na UNIGRANDE - Centro Universitário da Grande Fortaleza, apaixonado por tecnologia e Desenvolvimento tecnico e programação. Aqui você encontrará projetos que refletem minha jornada de aprendizado.
 
 <div align="left">
-  <img src="https://img.shields.io/badge/ESTRELAS-***-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/SEGUIDORES-***-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/jmarcosaraujo?label=ESTRELAS&style=for-the-badge&color=brightgreen&logo=github" />
+  <img src="https://img.shields.io/github/followers/jmarcosaraujo?label=SEGUIDORES&style=for-the-badge&color=brightblue&logo=github" />
 </div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-ara%C3%BAjo-lima-07b032214/)
