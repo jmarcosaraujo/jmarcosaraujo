@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-ara%C3%BAjo-lima-07b032214/)
-[![Email](https://img.shields.io/badge/Email-yellow.svg?logo=gmail&logoColor=white)](mailto:jmarcosaraujo7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gold.svg?logo=gmail&logoColor=white)](mailto:jmarcosaraujo7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/jmarcosaraujo)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Studios.MJ1)
 
