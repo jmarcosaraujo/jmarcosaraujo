@@ -1,38 +1,87 @@
+<div align="center">
+
 # 🧑‍💻 João Marcos Araújo Lima
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Novas+Tecnologias)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/BR-black?style=flat-square" alt="Brasil Badge">
 
 > Sou estudante de Analise e Desenvolvimento de Sistemas na UNIGRANDE - Centro Universitário da Grande Fortaleza, apaixonado por tecnologia e Desenvolvimento tecnico e programação. Aqui você encontrará projetos que refletem minha jornada de aprendizado.
 
-<div align="left">
-  <img src="https://img.shields.io/github/stars/jmarcosaraujo?label=ESTRELAS&style=for-the-badge&color=green&logo=github" />
-  <img src="https://img.shields.io/github/followers/jmarcosaraujo?label=SEGUIDORES&style=for-the-badge&color=brightblue&logo=github" />
-</div>
+<br>
 
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGTYPEhpOb3ww/profile-displaybackgroundimage-shrink_200_800/B4DZruKtRzJIAU-/0/1764932376593?e=1780531200&v=beta&t=uYTZ2HyiAko_IU3nXWQGQ8zxGjpEfsUY6t4LJ2an1ow" width="2000">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-ara%C3%BAjo-lima-07b032214/)
-[![Email](https://img.shields.io/badge/Email-gold.svg?logo=gmail&logoColor=white)](mailto:jmarcosaraujo7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/jmarcosaraujo)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Studios.MJ1)
+<br><br>
 
+<img src="https://img.shields.io/badge/BR-Brazil-green?style=for-the-badge">
 
-### 💻 Linguagens e Tecnologias
-<div align="left">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,python,c#,,latex,linux" />
-  
-</div>
+<img src="https://img.shields.io/github/followers/jmarcosaraujo?style=for-the-badge&logo=github&label=Seguidores&color=blue">
 
-### # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jmarcosaraujo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosaraujo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/github/stars/jmarcosaraujo?style=for-the-badge&logo=github&label=Stars&color=green">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jmarcosaraujo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+## 🚀 Sobre Mim
 
-<!--"A day without laughter is a day wasted."-->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Estudante de Analise e Desenvolvimento de Sistemas  
+🎯 Focado em Desenvolvimento Full Stack  
+📚 Sempre aprendendo novas tecnologias  
+🔥 Apaixonado por programação e inovação
+
+---
+
+## 🌐 Redes Sociais
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-ara%C3%BAjo-lima-07b032214/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:jmarcosaraujo7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/jmarcosaraujo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@Studios.MJ1">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+---
+
+## 💻 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,php,cs,c,cpp,django,angular,dotnet,git,github,linux,latex,vscode" />
+
+---
+
+<div align="center">
+
+## 📊 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
+## 🔥 Sequência de Contribuições
+
+<img src="https://streak-stats.demolab.com?user=jmarcosaraujo&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 🐍 Contribuições
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+---
+
+<img src="https://visitcount.itsvg.in/api?id=jmarcosaraujo&icon=5&color=12">
+
+<br><br>
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
